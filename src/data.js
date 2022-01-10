@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Pizza oredering app",
+    subtitle: "Online piza order",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./pizza.jpg",
+    link: "https://github.com/nmouahbi/BMICalculater", 
   },
   {
     title: "React Tracks",
