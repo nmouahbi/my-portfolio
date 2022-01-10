@@ -10,7 +10,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^1.1.5"
   },
-  "homepage": "https://nmouahbi.github.io/myportfolio2022",
+  "homepage": "https://nmouahbi.github.io/my-portfolio",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
