@@ -8,45 +8,60 @@ export const projects = [
     link: "https://github.com/nmouahbi/BMICalculater", 
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Pokemon List app",
+    subtitle: "Xcode and Swift",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "pokemon.jpg",
+    link: "https://github.com/nmouahbi/BMICalculater",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "BMI calculater",
+    subtitle: "Xcode and Swift",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "calc.jpg",
+    link: "https://github.com/nmouahbi/BMICalculater",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Calculater app",
+    subtitle: "React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "calc.jpg",
+    link: "https://github.com/nmouahbi/calculaterapp",
+  },
+  {
+    title: "US-Election",
+    subtitle: "React",
+    description:
+      "i was only helping ",
+    image: "vote.jpg",
+    link: "https://github.com/nmouahbi/electionmap",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Client testimonials",
+    image: "project.jpg",
+    name: "Unknown",
+    company: "Unknown",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Client testimonials.",
+    image: "project.jpg",
+    name: "Unknown",
+    company: "Unknown",
+  },
+  {
+    quote:
+      "Client testimonials.",
+    image: "project.jpg",
+    name: "Unknown",
+    company: "Unknown",
   },
 ];
 
@@ -55,6 +70,6 @@ export const skills = [
   "React",
   "Next.js",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "HTML5",
+  "Java",
 ];
