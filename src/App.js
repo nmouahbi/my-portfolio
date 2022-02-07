@@ -6,6 +6,8 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
 
+// import {FaAvianex} from 'react-icon'
+
 export default function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
@@ -18,3 +20,4 @@ export default function App() {
     </main>
   );
 }
+

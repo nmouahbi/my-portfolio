@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.mb-8 leading-relaxed{
+    src: "pizza";
+}
