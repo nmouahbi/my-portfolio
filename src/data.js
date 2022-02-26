@@ -13,7 +13,7 @@ export const projects = [
     description:
       "A simple application that show pokemon cards",
     image: "pokemon.jpg",
-    link: "https://github.com/nmouahbi/BMICalculater",
+    link: "https://github.com/nmouahbi/Pokemon-App",
   },
   {
     title: "BMI calculater",
